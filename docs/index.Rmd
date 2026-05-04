@@ -1,5 +1,5 @@
 ---
-title: "Data Story 5"
+title: "Tree Data Collection"
 author: "Hannah Barrow"
 date: "`r Sys.Date()`"
 output: 
@@ -82,9 +82,17 @@ tree_data %>%
 ################################################################################
 # Data Entry
 
-### This is what my data collection app looks like, including all of the measurements that are being recorded by the analyst. 
+This is the my data collection app that I made in R. It includes all of that the analyst is recording at each site. I also added a panel to see the raw data as it is being inputed. 
+
+## 
+
+###
 
 ![](app_image.png){width="100%"}
+
+###
+
+![](data_image.png){width="100%"}
 
 ################################################################################
 # Results
@@ -92,6 +100,8 @@ tree_data %>%
 ## Left column
 
 ###
+
+Control site with no recent structures or development. 
 
 ```{r control comp, }
 control_data <- tree_data %>% 
@@ -113,6 +123,8 @@ ggplot(control_table,
 
 ###
 
+Site of an old dump, more recently in operation. Used for different types of waste: glass, cans, a car, radioactive waste. 
+
 ```{r brkf comp, }
 brkd_data <- tree_data %>% 
     filter(site == "breakfield dump")
@@ -131,7 +143,9 @@ ggplot(brkd_table,
 
 ## Right column
 
-###
+### 
+
+Site of another old dump. Used for longer and by more departments/facilities. Waste included household debris (broken plates and cups), medical waste, and chemistry bottles and supplies from the chem department. 
 
 ```{r oss comp, }
 OSS_data <- tree_data %>% 

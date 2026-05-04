@@ -31,6 +31,22 @@ control forest,4,140,SW,small,3.3,8.7,white oak,n/a
 control forest,4,140,SW,large,5.6,18.5,white oak,n/a
 control forest,4,140,NW,small,9.3,6.9,white oak,n/a
 control forest,4,140,NW,large,4.6,34.5,white oak,n/a
+control forest,5,100,NE,small,1.7,6.7,red maple,n/a
+control forest,5,100,NE,large,3.7,29.9,scarlet oak,n/a
+control forest,5,100,SE,small,2.8,6.2,blackgum,n/a
+control forest,5,100,SE,large,3.1,29.8,hickory,n/a
+control forest,5,100,SW,small,7.1,7.4,sourwood,n/a
+control forest,5,100,SW,large,4.8,13,chestnut oak,n/a
+control forest,5,100,NW,small,4.1,8.8,red maple,n/a
+control forest,5,100,NW,large,2.9,30.7,chestnut oak,n/a
+control forest,6,100,NE,small,11.7,6.4,blackgum,n/a
+control forest,6,100,NE,large,7,12.2,sourwood,n/a
+control forest,6,100,SE,small,8.8,5.2,red maple,n/a
+control forest,6,100,SE,large,9.1,10,red maple,n/a
+control forest,6,100,SW,small,8.6,5.8,red maple,n/a
+control forest,6,100,SW,large,7.4,15.5,sourwood,n/a
+control forest,6,100,NW,small,7.7,6.4,red maple,n/a
+control forest,6,100,NW,large,0.9,56.8,red maple,n/a
 OSS dump,1,130,NE,small,6.5,8.6,red maple,n/a
 OSS dump,1,130,NE,large,2.2,77.5,chestnut oak,n/a
 OSS dump,1,130,SE,small,11.5,6.5,red maple,n/a
@@ -63,6 +79,22 @@ OSS dump,7,110,SE,small,3.4,5.9,blackgum,n/a
 OSS dump,7,110,SE,large,6.75,20.8,sourwood,n/a
 OSS dump,7,110,SW,small,5.7,6.1,blackgum,n/a
 OSS dump,7,110,SW,large,5,19.9,sourwood,n/a
+OSS dump,9,110,NE,small,4.7,8.4,red maple,n/a
+OSS dump,9,110,NE,large,1.5,21.3,hickory,n/a
+OSS dump,9,110,NW,small,5.3,6.6,blackgum,n/a
+OSS dump,9,110,NW,large,6.4,23.2,hickory,n/a
+OSS dump,9,110,SE,small,3.2,7.3,red maple,n/a
+OSS dump,9,110,SE,large,4.75,42.9,white oak,n/a
+OSS dump,9,110,SW,small,3.2,7.3,red maple,n/a
+OSS dump,9,110,SW,large,4.75,42.9,white oak,n/a
+OSS dump,11,110,NE,small,6.4,7.3,sugar maple,n/a
+OSS dump,11,110,NE,large,3.1,14.6,sugar maple,n/a
+OSS dump,11,110,NW,small,8.1,8,dogwood,n/a
+OSS dump,11,110,NW,large,0.65,48.9,white oak,n/a
+OSS dump,11,110,SE,small,2.7,6.4,sugar maple,n/a
+OSS dump,11,110,SE,large,6.3,10.5,red maple,n/a
+OSS dump,11,110,SW,small,2.85,7.1,black cherry,n/a
+OSS dump,11,110,SW,large,5.5,17.9,black cherry,n/a
 breakfield dump,1,180,NW,small,40,6.7,black locust,n/a
 breakfield dump,1,180,NW,large,2.4,31.2,black cherry,n/a
 breakfield dump,1,180,SW,small,8.8,6.5,ash,n/a
