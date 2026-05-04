@@ -12,4 +12,6 @@ sites where there were previous structures/archaeological sites.
 
 Link to my [dashboard](https://hannahbarrow.github.io/tree-data-collection/) exploring the data.
 
+Link to the [code](https://github.com/hannahbarrow/tree-data-collection/blob/main/docs/data_collection_app.R) for my data collection app. 
+
 Link to my [screen recording](https://drive.google.com/file/d/1F9cGMHEzDFB4_9Z00ZH1jTTjEJkdWz4l/view?usp=share_link).
